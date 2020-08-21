@@ -1,2 +1,2 @@
-def create():
+def add():
     pass

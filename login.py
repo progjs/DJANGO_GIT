@@ -1,2 +1,2 @@
-def save():
+def add():
     pass
